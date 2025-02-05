@@ -1,5 +1,4 @@
-PCB design - 4
- layer(signal-gnd-power-signal)
+# PCB design - 4 layer (signal-gnd-power-signal)
  
 > ![3D render](https://github.com/user-attachments/assets/357aed82-237f-4a0e-ba0b-eefb669cc7ad)
 > ![game_console drawio](https://github.com/user-attachments/assets/450eea22-3ab0-4cc1-b044-5d646ca4b012)
